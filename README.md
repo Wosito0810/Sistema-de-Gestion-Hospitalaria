@@ -136,7 +136,8 @@ El módulo de pacientes está completamente implementado: registro, consulta, li
 
 ## Autor
 
-**[Tu nombre completo]**  
-[Nombre del programa]  
-[Universidad / Institución]  
-[Año] — Proyecto Final de [Nombre de la asignatura]
+**[David Santiago Vargas Parra]**  
+**[Sergio Andres Cristancho Moreno]**
+[Ingenieria de Software]  
+[Universidad de Santander]  
+[2026] — Proyecto Final de [Programación II]
