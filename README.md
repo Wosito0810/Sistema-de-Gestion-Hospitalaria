@@ -138,6 +138,5 @@ El módulo de pacientes está completamente implementado: registro, consulta, li
 
 **[David Santiago Vargas Parra]**  
 **[Sergio Andres Cristancho Moreno]**
-[Ingenieria de Software]  
 [Universidad de Santander]  
 [2026] — Proyecto Final de [Programación II]
